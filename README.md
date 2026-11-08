@@ -77,14 +77,6 @@ A tiny Wi-Fi “TV” with a 1.44″ display. It plays test patterns, static, cl
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/sonarkon/airplay-esp32-onkyo"><img src="assets/airplay-onkyo.jpg" alt="AirPlay ESP32 for Onkyo"></a>
-
-<sub>ESP32 · AUDIO</sub>
-### [AirPlay ESP32 for Onkyo](https://github.com/sonarkon/airplay-esp32-onkyo)
-Turns an Onkyo R-1045DAB receiver into an AirPlay 2 speaker, with RI-bus control and Home Assistant integration. Fork of [rbouteiller/airplay-esp32](https://github.com/rbouteiller/airplay-esp32).
-
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?logo=espressif&logoColor=white)
-![AirPlay 2](https://img.shields.io/badge/AirPlay%202-000000?logo=apple&logoColor=white)
 </td>
 </tr>
 </table>
@@ -104,7 +96,16 @@ Home Assistant blueprints and ESPHome configs: smooth dimming on an IKEA scroll 
 ![ESPHome](https://img.shields.io/badge/ESPHome-000000?logo=esphome&logoColor=white)
 ![MIT](https://img.shields.io/badge/license-MIT-blue)
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+  <a href="https://github.com/sonarkon/airplay-esp32-onkyo"><img src="assets/airplay-onkyo.jpg" alt="AirPlay ESP32 for Onkyo"></a>
+
+<sub>ESP32 · AUDIO</sub>
+### [AirPlay ESP32 for Onkyo](https://github.com/sonarkon/airplay-esp32-onkyo)
+Turns an Onkyo R-1045DAB receiver into an AirPlay 2 speaker, with RI-bus control and Home Assistant integration. Fork of [rbouteiller/airplay-esp32](https://github.com/rbouteiller/airplay-esp32).
+
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?logo=espressif&logoColor=white)
+![AirPlay 2](https://img.shields.io/badge/AirPlay%202-000000?logo=apple&logoColor=white)
+</td>
 </tr>
 </table>
 
