@@ -62,7 +62,7 @@ Text-adventure builder for Unity, customised for Flintridge / Holodeck. This ver
 </tr>
 </table>
 
-##  Hardware hacks
+## Hardware hacks
 
 <table>
 <tr>
@@ -89,7 +89,7 @@ Turns an Onkyo R-1045DAB receiver into an AirPlay 2 speaker, with RI-bus control
 </tr>
 </table>
 
-## 🏠 Smart home
+## Smart home
 
 <table>
 <tr>
