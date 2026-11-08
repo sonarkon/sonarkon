@@ -1,8 +1,8 @@
 ### Hi, I'm sonarkon 👋
 
-I build small tools for stage and projection. I take apart electronics to make them do new things.
+I build small tools for stage and video. I take apart electronics to make them do new things.
 
-## 🛠 Software
+## Software
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ Laser-cut living-hinge patterns for cylinders and pendant lampshades. It estimat
 </tr>
 </table>
 
-## 🎭 Stage & interactive
+## Stage & interactive
 
 <table>
 <tr>
@@ -62,7 +62,7 @@ Text-adventure builder for Unity, customised for Flintridge / Holodeck. This ver
 </tr>
 </table>
 
-## 🔌 Hardware hacks
+##  Hardware hacks
 
 <table>
 <tr>
