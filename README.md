@@ -1,7 +1,6 @@
 ### Hi, I'm sonarkon 👋
 
-Performance & installation artist and hardware tinkerer. I build small tools for video, stage
-and projection, and I take apart electronics to make them do new things.
+I build small tools for stage and projection. I take apart electronics to make them do new things.
 
 ## 🛠 Software
 
