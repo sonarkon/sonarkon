@@ -30,6 +30,23 @@ Laser-cut living-hinge patterns for cylinders and pendant lampshades. It estimat
 ![MIT](https://img.shields.io/badge/license-MIT-blue)
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/sonarkon/Wellensalat"><img src="assets/wellensalat.jpg" alt="Wellensalat"></a>
+
+<sub>VIDEO · BROWSER</sub>
+### [Wellensalat](https://github.com/sonarkon/Wellensalat)
+Turns audio into animated waveform videos for Reels, Shorts and YouTube. Scope, X-Y, spectrum and waterfall in a phosphor or Hitchhiker look, with cut and cross-fades, subtitles from in-browser speech recognition and MP4 export.
+
+▶ **[Open in browser](https://sonarkon.github.io/Wellensalat/)**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white)
+![MIT](https://img.shields.io/badge/license-MIT-blue)
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ## Stage & interactive
